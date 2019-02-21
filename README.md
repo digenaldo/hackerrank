@@ -2,5 +2,5 @@
 HackerRank problems solved in golang
 
 Problems solved:
-- Sock Merchant
-- Counting Valleys
+- [Counting Valleys](http://hr.gs/3rtx)
+- [Sock Merchant](http://hr.gs/eabbdd)
